@@ -9,4 +9,4 @@ To generate the results for survival analysis:
 4. The extra discard.txt file can be discarded.
 
 # Propensity Score Matching
-To generate the reuslts for propensity score matching: 
+To generate the results for propensity score matching: 
