@@ -1,0 +1,18 @@
+[1] "The LaTeX output of the p-value table is provided below."
+% latex table generated in R 3.6.0 by xtable 1.8-4 package
+% Tue May 28 15:27:46 2019
+\begin{table}[ht]
+\centering
+\begin{tabular}{llll}
+  \hline
+ & 18 - 49 & 50 - 64 & 65+ \\ 
+  \hline
+Patient Survival &  &  &  \\ 
+  Patient Survival (TTG v. Steroids Only) & p = 0.37 & p = 0.0011 & p = 0.82 \\ 
+  Patient Survival (Simulect v. Steroids Only) & p = 0.17 & p = 0.087 & p = 0.17 \\ 
+  Graft Survival &  &  &  \\ 
+  Graft Survival (TTG v. Steroids Only) & p = 0.43 & p = 0.14 & p = 0.43 \\ 
+  Graft Survival (Simulect v. Steroids Only) & p = 0.9 & p = 0.0066 & p = 0.045 \\ 
+   \hline
+\end{tabular}
+\end{table}
