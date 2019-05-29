@@ -1,0 +1,69 @@
+[1] "The LaTeX output of the list of covariates is provided below."
+% latex table generated in R 3.6.0 by xtable 1.8-4 package
+% Tue May 28 17:34:43 2019
+\begin{longtable}{ll}
+  \hline
+ & names(induction\_cleaned\_vector[[1]]) \\ 
+  \hline
+1 & AGE \\ 
+  2 & AGE\_DON \\ 
+  3 & ALBUMIN\_TX \\ 
+  4 & BMI\_CALC \\ 
+  5 & CREAT\_TX \\ 
+  6 & HGT\_CM\_DON\_CALC \\ 
+  7 & INR\_TX \\ 
+  8 & MELD\_PELD\_LAB\_SCORE \\ 
+  9 & PSTATUS \\ 
+  10 & TBILI\_TX \\ 
+  11 & ASCITES\_TX\_Slight \\ 
+  12 & ASCITES\_TX\_Moderate \\ 
+  13 & ASCITES\_TX\_Absent \\ 
+  14 & ASCITES\_TX\_Other \\ 
+  15 & BACT\_PERIT\_TCR\_No \\ 
+  16 & BACT\_PERIT\_TCR\_Yes \\ 
+  17 & CARDARREST\_NEURO\_No \\ 
+  18 & CARDARREST\_NEURO\_Yes \\ 
+  19 & DIAB\_No \\ 
+  20 & DIAB\_Yes \\ 
+  21 & DIAG\_Cryptogenic/Fatty Liver \\ 
+  22 & DIAG\_PSC \\ 
+  23 & DIAG\_HCV \\ 
+  24 & DIAG\_Other \\ 
+  25 & DIAG\_HBV \\ 
+  26 & DIAG\_Autoimmune \\ 
+  27 & DIAG\_Alcoholic \\ 
+  28 & DIAG\_PBC \\ 
+  29 & DIAL\_TX\_No \\ 
+  30 & DIAL\_TX\_Yes \\ 
+  31 & DON\_TY\_Deceased \\ 
+  32 & DON\_TY\_Living \\ 
+  33 & ENCEPH\_TX\_Stage 1-2 \\ 
+  34 & ENCEPH\_TX\_Stage 3-4 \\ 
+  35 & ENCEPH\_TX\_None \\ 
+  36 & ENCEPH\_TX\_4 \\ 
+  37 & ETHCAT\_Asian \\ 
+  38 & ETHCAT\_White \\ 
+  39 & ETHCAT\_Black \\ 
+  40 & ETHCAT\_Hispanic \\ 
+  41 & ETHCAT\_Other \\ 
+  42 & ETHCAT\_DON\_White \\ 
+  43 & ETHCAT\_DON\_Black \\ 
+  44 & ETHCAT\_DON\_Hispanic \\ 
+  45 & ETHCAT\_DON\_Asian \\ 
+  46 & ETHCAT\_DON\_Other \\ 
+  47 & FUNC\_STAT\_TRR\_Total Assist \\ 
+  48 & FUNC\_STAT\_TRR\_No Assist \\ 
+  49 & FUNC\_STAT\_TRR\_Some Assist \\ 
+  50 & FUNC\_STAT\_TRR\_Other \\ 
+  51 & GENDER\_Female \\ 
+  52 & GENDER\_Male \\ 
+  53 & GENDER\_DON\_Female \\ 
+  54 & GENDER\_DON\_Male \\ 
+  55 & HEP\_C\_ANTI\_DON\_No \\ 
+  56 & HEP\_C\_ANTI\_DON\_Yes \\ 
+  57 & LITYP\_No \\ 
+  58 & LITYP\_Yes \\ 
+  59 & PATIENTSTATUS \\ 
+   \hline
+\hline
+\end{longtable}
